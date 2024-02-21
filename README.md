@@ -12,9 +12,8 @@ sudo apt -qy upgrade
 ```
 export UNIOND_VERSION=v0.19.0
 export CHAIN_ID=union-testnet-6
-export MONIKER="eastwood"
+export MONIKER="eastwood" #edit to call it whatever you want your nodes moniker to be
 export KEY_NAME=wallet
-export GENESIS_URL="union.testnet.6.seed.poisonphang.com:26657/genesis"
 ```
 
 ## Install GO
