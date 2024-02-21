@@ -1,4 +1,4 @@
-# Union-Node-Install-Guide
+# Union-Node-Install-Guide for Ubuntu 22.04.3 LTS
 >Using information from KJ Nodes with minor changes to get rid of errors
 
 ## Install dependencies
